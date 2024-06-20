@@ -1,3 +1,2 @@
-This is my first project, which is designed to measure the performance of four companies in the same sector (Commercial Sector) and to develop solutions for the company where I work. 
-This project represents our inaugural analysis of four companies within the commercial sector over a three-year period, from 2021 to 2023, segmented by quarters. The database utilized in this analysis is **entirely hypothetical** and does not reflect actual figures or pertain to any real-world company.
+This project is our inaugural analysis, designed to evaluate the performance of four companies within the commercial sector over a three-year period, from 2021 to 2023, segmented by quarters. The database used in this analysis is entirely hypothetical and does not reflect actual figures or pertain to any real-world companies. Click the link to directly access the project.
 https://ahmeddawod12.github.io/performance.github.io/
